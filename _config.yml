@@ -1,3 +1,4 @@
+layout_spectrum: 0.09703089250251651
 typography_spectrum: 0.6223145467229187
 color:
   brandStrength: 0.3562893436755985
@@ -10,6 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.09703089250251651
 name: E1
-title: E1
